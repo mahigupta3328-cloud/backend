@@ -16,3 +16,9 @@ resource "azurerm_storage_container" "month" {
   storage_account_name  = "year546"
   container_access_type = "private"
 }
+
+resource "azurerm_resource_group" "nilk56" {
+    name = "nilk546"
+    location = "west us"
+  
+}
